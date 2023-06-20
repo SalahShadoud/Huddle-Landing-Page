@@ -13,8 +13,8 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-html5-css-flexbox-ressponsive-JnTEvzDyeB)
+- [Live Site URL](https://huddle-landing-page-ten-black.vercel.app/)
 
 ## My process
 
